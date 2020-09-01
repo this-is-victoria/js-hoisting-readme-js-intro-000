@@ -33,5 +33,5 @@ function sayMyName() {
     console.log(name);
     
   }
-//  return sayMy();
+sayMy();
 }
